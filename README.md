@@ -10,7 +10,7 @@
 ###  About Me
 I am a passionate computer science student focused on building clean, efficient, and user-centric web applications. I love exploring new technologies and solving complex programming problems.
 
-- 🔭 **Current Focus:** Deepening my knowledge in **React** and **Python** ecosystem.
+- 🔭 **Current Focus:** Deepening my knowledge in **React** and **Python** .
 - ⚙️ **Academic Core:** Strongly focused on **Computer Science & Engineering** fundamentals, including algorithms and **Database Management Systems (DBMS)**.
 - 👯 **Collaboration:** Open to collaborating on innovative open-source projects or frontend/backend development tasks.
 - 💬 **Ask Me About:** C++, HTML/CSS, Frontend architecture, or basic database queries.
