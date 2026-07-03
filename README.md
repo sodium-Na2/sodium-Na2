@@ -7,7 +7,7 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 I am a passionate computer science student focused on building clean, efficient, and user-centric web applications. I love exploring new technologies and solving complex programming problems.
 
 - 🔭 **Current Focus:** Deepening my knowledge in **React** and **Python** ecosystem.
