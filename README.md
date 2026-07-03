@@ -46,7 +46,7 @@ I am a passionate computer science student focused on building clean, efficient,
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sodium-Na2&theme=tokyonight" alt="sodium-Na2's Streak Stats" width="460" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sodium-Na2&theme=tokyonight" alt="sodium-Na2's Streak Stats" width="560" />
 </p>
 
 ---
