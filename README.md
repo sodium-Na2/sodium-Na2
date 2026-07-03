@@ -1,60 +1,37 @@
-<h1 align="center">Hi 👋, I'm sodium-Na2</h1>
-<h3 align="center">Software Engineering Student & Aspiring Full-Stack Developer</h3>
+<h3 align="center">Learner</h3>
 
 <p align="center">
-  <img src="https://gifyu.com/images/S0uY7.gif" alt="Coding GIF" width="380" />
+  <img src="https://gifyu.com/images/S0uY7.gif" alt="Coding GIF" width="350" />
 </p>
 
----
+- 🔭 **Currently focused on:** Master-ing **React** and **Python** 🚀
+- 👯 **Looking to collaborate on:** Open-source projects & innovative web apps 🌐
+- 💬 **Ask me about:** C++, HTML/CSS, or Frontend Basics — always happy to chat! ⚡
 
-### 🚀 About Me
-I am a passionate computer science student focused on building clean, efficient, and user-centric web applications. I love exploring new technologies and solving complex programming problems.
+<br />
 
-- 🔭 **Current Focus:** Deepening my knowledge in **React** and **Python** ecosystem.
-- ⚙️ **Academic Core:** Strongly focused on **Computer Science & Engineering** fundamentals, including algorithms and **Database Management Systems (DBMS)**.
-- 👯 **Collaboration:** Open to collaborating on innovative open-source projects or frontend/backend development tasks.
-- 💬 **Ask Me About:** C++, HTML/CSS, Frontend architecture, or basic database queries.
-
----
-
-### 🛠️ Languages and Tools
-
-<p align="left">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <br />
-  <!-- Backend & Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <br />
-  <!-- Databases & Tools -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
----
-
-### 📊 GitHub Activity & Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sodium-Na2&show_icons=true&theme=tokyonight&count_private=true" alt="sodium-Na2's GitHub Stats" width="460" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sodium-Na2&theme=tokyonight" alt="sodium-Na2's Streak Stats" width="460" />
-</p>
-
----
-
-### 📈 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sodium-Na2&layout=compact&theme=tokyonight" alt="Top Langs" width="400" />
+<h3 align="left">🛠️ Languages and Tools</h3>
+<p align="left"> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/> </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/> </a> 
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="45" height="45"/> </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/> </a> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/> </a> 
 </p>
 
 <br />
-<p align="center">⭐️ From <i>sodium-Na2</i></p>
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sodium-Na2&show_icons=true&count_private=true" alt="sodium-Na2's GitHub Stats" width="450" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sodium-Na2&theme=tokyonight" alt="sodium-Na2's Streak Stats" width="450" />
+</p>
