@@ -1,6 +1,6 @@
 <h3 align="center">Learner</h3>
 
-- - 🔭 I’m currently working on improving my skills in React and Python.
+- 🔭 I’m currently working on improving my skills in React and Python.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about C++, HTML/CSS, or Frontend Basics.
 
