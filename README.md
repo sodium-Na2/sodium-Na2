@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Afiah Aysha Khan </h1>
+<h1 align="center">Hi 👋, I'm sodium-Na2 </h1>
 <h3 align="center">Software Engineering Student & Aspiring Full-Stack Developer</h3>
 
 <p align="center">
