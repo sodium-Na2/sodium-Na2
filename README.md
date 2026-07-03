@@ -42,7 +42,7 @@ I am a passionate computer science student focused on building clean, efficient,
 ### 📊 GitHub Activity & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sodium-Na2&show_icons=true&theme=tokyonight&count_private=true" alt="sodium-Na2's GitHub Stats" width="460" />
+  
 </p>
 
 <p align="center">
