@@ -16,3 +16,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sodium-na2&show_icons=true&locale=en" alt="sodium-na2" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sodium-na2&" alt="sodium-na2" /></p>
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sodium-Na2&show_icons=true&theme=tokyonight&count_private=true" alt="sodium-Na2's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sodium-Na2&theme=tokyonight" alt="sodium-Na2's Streak Stats" />
+</p>
