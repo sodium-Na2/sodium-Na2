@@ -7,7 +7,7 @@
 
 ---
 
-> ### 🚀 About Me
+> ###  About Me
 
 I am a passionate computer science student focused on building clean, efficient, and user-centric web applications. I love exploring new technologies and solving complex programming problems.
 
